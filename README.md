@@ -404,6 +404,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://tweetfancy.io](https://tweetfancy.io/) : Tweet with bold, italics and strikethrough text.
 * [https://theia-ide.org](https://theia-ide.org/) : Eclipse Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies.
 * [https://tineye.com](https://tineye.com/) : Reverse Image Search. Search by image and find where that image appears online.
+* [https://thatsmy.ai](https://thatsmy.ai) : Your personal AI Apps discovery platform. Find the right AI for improved productivity
 * [https://theworstwebsiteinthe.world](https://theworstwebsiteinthe.world/) : Literally what the website link says. The Worst Website In The World! 🤣
 * [https://theresanaiforthat.com](https://theresanaiforthat.com/) : There's an AI for every task! 🤖
 
